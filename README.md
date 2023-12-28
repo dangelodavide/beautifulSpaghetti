@@ -1,4 +1,7 @@
-# beautifulSpaghetti
+<h1>
+  <img src="https://www.gonnawantseconds.com/wp-content/uploads/2019/11/Italian-Spaghetti-01.jpg" alt="Logo" style="width: 50px; height: 50px; vertical-align: middle;"> 
+  beautifulSpaghetti.py
+</h1>
 
 ## Overview
 
